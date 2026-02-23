@@ -29,7 +29,7 @@ pip install schedule
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/automated-file-backup.git
+   git clone https://github.com/yourusername/automated-backup.git
    ```
 2. Navigate to the folder
    ```
@@ -46,7 +46,7 @@ pip install schedule
    ```
 5. Run the script
    ```
-   python 3_automated_file_backup.py
+   python automated_backup.py
    ```
 
 Keep the terminal open. The script runs continuously and checks the schedule every 60 seconds.
@@ -56,7 +56,7 @@ Keep the terminal open. The script runs continuously and checks the schedule eve
 ## Usage
 
 ```
-$ python 3_automated_file_backup.py
+$ python automated_backup.py
 Folder copied to: /your/destination/folder/2025-12-25
 ```
 
