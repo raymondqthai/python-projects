@@ -33,7 +33,7 @@ pip install schedule
    ```
 2. Navigate to the folder
    ```
-   cd automated-file-backup
+   cd automated-backup
    ```
 3. Open `3_automated_file_backup.py` and update these two lines with your own paths:
    ```python
