@@ -1,0 +1,3 @@
+# REQUIRED for Marimo Video Playback
+[tool.marimo.runtime]
+output_max_bytes = 100_000_000
